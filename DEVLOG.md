@@ -1,0 +1,3 @@
+# flutter-audio-player-kit - Development History (September 2026)
+
+- **[2026-09-01 11:22:13]** (1) feat(player): initialize audio session with lock screen controls
