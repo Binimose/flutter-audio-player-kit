@@ -2,3 +2,4 @@
 
 - **[2026-09-01 11:22:13]** (1) feat(player): initialize audio session with lock screen controls
 - **[2026-09-01 14:39:36]** (2) refactor(queue): implement shuffle and repeat playlist manager
+- **[2026-09-01 17:56:59]** (3) fix(buffering): handle sudden network stream drop gracefully
