@@ -15,3 +15,4 @@
 - **[2026-09-04 16:17:38]** (13) perf(cache): stream audio segments directly into temporary disk cache
 - **[2026-09-05 11:50:05]** (14) docs(ios): document background audio playback entitlements
 - **[2026-09-05 14:07:28]** (15) feat(player): initialize audio session with lock screen controls
+- **[2026-09-05 17:24:51]** (16) refactor(queue): implement shuffle and repeat playlist manager
