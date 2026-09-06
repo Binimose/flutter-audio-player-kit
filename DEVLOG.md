@@ -18,3 +18,4 @@
 - **[2026-09-05 17:24:51]** (16) refactor(queue): implement shuffle and repeat playlist manager
 - **[2026-09-06 10:57:18]** (17) fix(buffering): handle sudden network stream drop gracefully
 - **[2026-09-06 13:14:41]** (18) ui(visualizer): draw real-time audio waveform visualizer bars
+- **[2026-09-06 16:31:04]** (19) test(audio): test background service lifecycle events
