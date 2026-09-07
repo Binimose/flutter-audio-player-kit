@@ -20,3 +20,4 @@
 - **[2026-09-06 13:14:41]** (18) ui(visualizer): draw real-time audio waveform visualizer bars
 - **[2026-09-06 16:31:04]** (19) test(audio): test background service lifecycle events
 - **[2026-09-06 19:48:27]** (20) perf(cache): stream audio segments directly into temporary disk cache
+- **[2026-09-07 11:04:31]** (21) docs(ios): document background audio playback entitlements
