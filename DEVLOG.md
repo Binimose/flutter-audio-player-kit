@@ -31,3 +31,4 @@
 - **[2026-09-09 17:52:43]** (29) feat(player): initialize audio session with lock screen controls
 - **[2026-09-09 20:09:06]** (30) refactor(queue): implement shuffle and repeat playlist manager
 - **[2026-09-10 10:25:10]** (31) fix(buffering): handle sudden network stream drop gracefully
+- **[2026-09-10 13:42:33]** (32) ui(visualizer): draw real-time audio waveform visualizer bars
