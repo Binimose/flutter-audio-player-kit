@@ -33,3 +33,4 @@
 - **[2026-09-10 10:25:10]** (31) fix(buffering): handle sudden network stream drop gracefully
 - **[2026-09-10 13:42:33]** (32) ui(visualizer): draw real-time audio waveform visualizer bars
 - **[2026-09-10 16:59:56]** (33) test(audio): test background service lifecycle events
+- **[2026-09-11 11:32:23]** (34) perf(cache): stream audio segments directly into temporary disk cache
