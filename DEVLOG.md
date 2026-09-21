@@ -68,3 +68,4 @@
 - **[2026-09-20 16:09:06]** (66) fix(buffering): handle sudden network stream drop gracefully
 - **[2026-09-21 11:42:33]** (67) ui(visualizer): draw real-time audio waveform visualizer bars
 - **[2026-09-21 14:59:56]** (68) test(audio): test background service lifecycle events
+- **[2026-09-21 17:16:19]** (69) perf(cache): stream audio segments directly into temporary disk cache
