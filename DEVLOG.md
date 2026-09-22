@@ -70,3 +70,4 @@
 - **[2026-09-21 14:59:56]** (68) test(audio): test background service lifecycle events
 - **[2026-09-21 17:16:19]** (69) perf(cache): stream audio segments directly into temporary disk cache
 - **[2026-09-21 20:33:42]** (70) docs(ios): document background audio playback entitlements
+- **[2026-09-22 10:49:46]** (71) feat(player): initialize audio session with lock screen controls
