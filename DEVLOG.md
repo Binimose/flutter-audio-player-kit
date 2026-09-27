@@ -86,3 +86,4 @@
 - **[2026-09-26 10:17:38]** (84) docs(ios): document background audio playback entitlements
 - **[2026-09-26 13:34:01]** (85) feat(player): initialize audio session with lock screen controls
 - **[2026-09-26 16:51:24]** (86) refactor(queue): implement shuffle and repeat playlist manager
+- **[2026-09-27 11:24:51]** (87) fix(buffering): handle sudden network stream drop gracefully
